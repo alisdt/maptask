@@ -1,5 +1,9 @@
 # maptask
 
+Requirements: Python 2.7
+
+Usage: In main code directory, `python mt_main.py`
+
 A computerised version of the Map Task (Anderson et al., 1991) maps 0 and 4.
 
 The program is designed to describe the route to a participant who then completes the task by drawing the route on the map (maps are openly available at http://groups.inf.ed.ac.uk/maptask/#maps). The system will describe the route three times in each of the natural and synthetic speech conditions.
