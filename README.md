@@ -1,6 +1,9 @@
 # maptask
 
-Requirements: Python 2.7
+Requirements:
+
+* Python 2.7
+* Uses "start" (Windows), "play" (Linux), "afplay" (Mac OS X) to play sound.
 
 Usage: In main code directory, `python mt_main.py`
 
