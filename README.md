@@ -1,5 +1,7 @@
 # maptask
 
+Created by Alisdair Tullo and Catherine Crompton.
+
 Requirements:
 
 * Python 2.7
