@@ -1,5 +1,7 @@
 # maptask
 
+[![DOI](https://zenodo.org/badge/151560294.svg)](https://zenodo.org/badge/latestdoi/151560294)
+
 Created by Alisdair Tullo and Catherine Crompton.
 
 Requirements:
